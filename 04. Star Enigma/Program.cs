@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Runtime.ExceptionServices;
 using System.Diagnostics.Tracing;
 
-namespace PetkoCSharp1
+namespace PetkoSoftUniFundamentals
 {
     class Program
     {
